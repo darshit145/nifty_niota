@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104319031456",
+    "project_id": "niftyniota",
+    "storage_bucket": "niftyniota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104319031456:android:97fe02f42c68ec0ff851c5",
+        "android_client_info": {
+          "package_name": "com.example.nifty_niota"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiueUM63heaWyatCNprbv5urPizszpNaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
